@@ -44,10 +44,10 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
----
-## 👨‍💻 Author
 
-**Dadapeer Khazi**  
-📧 [dadapeerkhazi07@gmail.com](mailto:dadapeerkhazi07@gmail.com)  
+ 👨‍💻 Author
+
+Dadapeer Khazi  
+📧 (mailto:dadapeerkhazi469@gmail.com)  
 💼 Aspiring Data Analyst | AI Enthusiast | Python Developer  
-🌐 [LinkedIn](https://www.linkedin.com/in/dadapeerkhazi) | [GitHub](https://github.com/Dadapeer07-gi)
+(https://www.linkedin.com/in/dadapeerkhazi) | (https://github.com/Dadapeer07-gi)
